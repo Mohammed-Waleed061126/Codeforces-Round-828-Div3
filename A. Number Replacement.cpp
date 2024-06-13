@@ -139,8 +139,8 @@ void solution(){
 }
 
 int main(){ MW_HY
-  freopen("input.txt","r",stdin);
-  freopen("output.txt","w",stdout);
+  //freopen("input.txt","r",stdin);
+  //freopen("output.txt","w",stdout);
   int ntimes = 1;
   cin >> ntimes;
   while (ntimes--)
